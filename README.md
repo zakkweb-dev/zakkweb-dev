@@ -3,7 +3,8 @@
 ### 🌐 Frontend Web Developer | Student | Website Builder
 
 I'm a student passionate about web development and modern user interfaces. I enjoy building responsive websites, experimenting with new technologies, and helping businesses establish their online presence.
-
+---
+Saya seorang pelajar yang memiliki passion dalam pengembangan web dan antarmuka pengguna modern. Saya senang membangun website yang responsif, bereksperimen dengan teknologi baru, dan membantu bisnis membangun kehadiran online mereka.
 ---
 
 ## 🚀 About Me
