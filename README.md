@@ -7,9 +7,9 @@
 - 🎯 Looking for opportunities to build websites for local businesses
 
 ## Current Projects
-PAI D IMMORTAL Class Website
-Personal Portfolio Website
-Business Landing Page Templates
+- PAI D IMMORTAL Class Website
+- Personal Portfolio Website
+- Business Landing Page Templates
 
 ## Tech Stack
 - HTML
